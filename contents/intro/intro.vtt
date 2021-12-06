@@ -1,0 +1,55 @@
+WEBVTT
+
+NOTE
+To enable cue styles, please remove above 'NOTE' line as well as this line.
+STYLE
+::cue {
+	font-family: Verdana;
+	color: #FFFFFF;
+	background-color: #000000;
+}
+
+1
+00:00:02.120 --> 00:00:06.920 line:15 align:middle
+Benvenuto in
+
+2
+00:00:06.920 --> 00:00:11.660 line:15 align:middle
+questo corso formativo di ACEA dedicato al diritto antitrust, la normativa a tutela
+
+3
+00:00:11.660 --> 00:00:16.550 line:15 align:middle
+della concorrenza sui mercati economici, avente lo scopo di promuovere buone prassi
+
+4
+00:00:16.550 --> 00:00:19.840 line:15 align:middle
+aziendali e sviluppare una cultura condivisa in materia. 
+
+5
+00:00:21.620 --> 00:00:26.480 line:15 align:middle
+Insieme approfondiremo i seguenti argomenti:
+1.	Diritto antitrust: normativa
+
+
+6
+00:00:26.480 --> 00:00:31.470 line:15 align:middle
+italiana ed europea
+2.	Intese restrittive
+3.	Abuso di posizione dominante
+
+
+7
+00:00:31.780 --> 00:00:35.950 line:15 align:middle
+4.	Abuso di dipendenza economica
+5.	Operazioni di concentrazione
+
+
+8
+00:00:36.390 --> 00:00:41.380 line:15 align:middle
+6.	Conseguenze delle violazioni del diritto antitrust
+7.	Autorità competenti in materia
+
+
+9
+00:00:41.640 --> 00:00:44.550 line:15 align:middle
+8.	Regole di comportamento e consigli utili.
